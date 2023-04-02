@@ -12,4 +12,4 @@ third
 fix-B
 feature-C
 
-feature
+feature--
