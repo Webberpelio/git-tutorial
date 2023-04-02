@@ -10,4 +10,4 @@ third
 
 分支feature-A
 fix-B
-faeture-C
+feature-C
